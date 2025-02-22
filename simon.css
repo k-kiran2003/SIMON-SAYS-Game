@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+.first div ,.second div{
+    height: 8rem;
+    width: 8rem;
+    border-radius: 2rem;
+    border: 2px solid black;
+    margin: 10px;
+ 
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.purple{
+    background-color: purple;
+}
+.background{
+    background-color: white;
+}
